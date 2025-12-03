@@ -39,7 +39,3 @@ The goal of this project is to help understand loan patterns, identify high-risk
 - README with project summary  
 
 ---
-
-<img width="1325" height="748" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/8024c2cd-90b9-4acd-9188-d42495a2fef6" />
-
----
