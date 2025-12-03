@@ -9,6 +9,10 @@ This Power BI dashboard provides a detailed analysis of bank loan performance an
 The goal of this project is to help understand loan patterns, identify high-risk areas, and support data-driven decision-making in banking operations. The visuals allow easy exploration of repayment behaviour, customer segments, and loan growth trends.
 
 ---
+
+<img width="1325" height="748" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/8024c2cd-90b9-4acd-9188-d42495a2fef6" />
+
+---
 ## 🔍 Key Insights
 - Year-wise loan disbursement and trend analysis  
 - Loan purpose distribution (debt consolidation, credit card, home improvement, etc.)  
