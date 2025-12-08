@@ -1,7 +1,7 @@
 ## BANK LOAN ANALYSIS-POWER BI DASHBOARD
 ---
 
-(https://github.com/Shitalpande/BANK-LOAN-ANALYSIS-POWER-BI-DASHBOARD/commit/85322dc76c0441ad15b3282466f2ee329398f27e)
+![Dashboard Preview]([Power BI Dashboard.png](https://github.com/Shitalpande/BANK-LOAN-ANALYSIS-POWER-BI-DASHBOARD/commit/85322dc76c0441ad15b3282466f2ee329398f27e))
 
 ## 📌Overview
 This Power BI dashboard provides a detailed analysis of bank loan performance and customer behaviour. It highlights key KPIs such as total customers, total loan amount, average interest rate, and revolving balance. The dashboard also visualizes loan distribution by purpose, yearly trends, grade-wise and sub-grade risk categories, home-ownership segmentation, and state-wise loan status.  
